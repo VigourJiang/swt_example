@@ -1,0 +1,903 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.7.0_51
+Eclipse-SourceBundle: org.eclipse.swt.examples;version="3.103.2.v20150
+ 128-1346";roots:="."
+Bundle-Vendor: %bundleVendor
+Bundle-Localization: OSGI-INF/l10n/bundle-src
+Bundle-Name: %bundleName
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.swt.examples.source
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-Version: 3.103.2.v20150128-1346
+Bundle-ManifestVersion: 2
+
+Name: examples_layout.properties
+SHA1-Digest: vAnDql6lGt4EW1UQaw04/bRytI8=
+
+Name: org/eclipse/swt/examples/controlexample/DateTimeTab.java
+SHA1-Digest: Bo9tBFCJA6BtHVeBGtD9yNFz4JM=
+
+Name: org/eclipse/swt/examples/graphics/pattern3.jpg
+SHA1-Digest: Dr/Z6puMoAvX/7Y5bkpzZ/7XbzA=
+
+Name: org/eclipse/swt/examples/controlexample/TreeTab.java
+SHA1-Digest: AlbcVaBNhxUz0QdR4A4e+Mpn5M8=
+
+Name: org/eclipse/swt/examples/graphics/LineStyleTab.java
+SHA1-Digest: U12COzpDpI9lPYAm8HnBunHjv2k=
+
+Name: org/eclipse/swt/examples/texteditor/link_obj.gif
+SHA1-Digest: p6xlMd48+L/ZVGZ9KdkJtQCyhy8=
+
+Name: org/eclipse/swt/examples/layoutexample/StackLayoutTab.java
+SHA1-Digest: oAo5TDGy2zFLUUYp8jvHaaKWyWg=
+
+Name: org/eclipse/swt/examples/browserexample/document.gif
+SHA1-Digest: gYQzrZkTr6EqEn5EdRCBc1p8+js=
+
+Name: org/eclipse/swt/examples/graphics/BallTab.java
+SHA1-Digest: XAFmfjcwPGdkNS78eZtewwnrpak=
+
+Name: org/eclipse/swt/examples/paint/linestyle_dash.gif
+SHA1-Digest: u8WGONYDiUsoLG7bs4q94wBzOls=
+
+Name: org/eclipse/swt/examples/graphics/PathClippingTab.java
+SHA1-Digest: asotNvVyQgSKL8G/Y21s6rLuX84=
+
+Name: org/eclipse/swt/examples/paint/Tool.java
+SHA1-Digest: eyjyNiGSayGn1kYewgARs1XEeqc=
+
+Name: org/eclipse/swt/examples/javaviewer/JavaViewer.java
+SHA1-Digest: UnlMlYR69VflrA37LyCMEsfGq3Y=
+
+Name: org/eclipse/swt/examples/accessibility/ControlsWithLabelsExample
+ .java
+SHA1-Digest: wksYRGPaQzJoR0dkn+b4RJU5bF4=
+
+Name: org/eclipse/swt/examples/paint/linestyle_dot.gif
+SHA1-Digest: J67wE1JH3KJRWV5oHUgrSbV6xcA=
+
+Name: examples_control.properties
+SHA1-Digest: EJJgf5D1PHNAmfBGiGMTNSWmpcI=
+
+Name: org/eclipse/swt/examples/controlexample/ButtonTab.java
+SHA1-Digest: 91YQsb20XzZ1Dnw5XdpXOV3svEQ=
+
+Name: org/eclipse/swt/examples/texteditor/copy.ico
+SHA1-Digest: /h3mzC1/20QTa5iCXrGxwY64ApA=
+
+Name: org/eclipse/swt/examples/browserexample/eclipse02.bmp
+SHA1-Digest: GKSeIflXwUuYf+oQFZarFGWxEz0=
+
+Name: org/eclipse/swt/examples/graphics/LineCapTab.java
+SHA1-Digest: meX882o3+fezF/TgO7RaR1C7Y+k=
+
+Name: doc-html/swt_imageanalyzer_ex.html
+SHA1-Digest: mbqEMQqoimnOn6iCSfdR/beR3o8=
+
+Name: org/eclipse/swt/examples/browserexample/eclipse06.bmp
+SHA1-Digest: r+9dxIUVsMi9LWH3tNbV3Cbjqvk=
+
+Name: org/eclipse/swt/examples/graphics/back.gif
+SHA1-Digest: qx89HZcOfCNP8URrsbXsnJSbNro=
+
+Name: org/eclipse/swt/examples/layoutexample/GridLayoutTab.java
+SHA1-Digest: IVEkrjXqPBgS4nVRv3liRqQhkkA=
+
+Name: org/eclipse/swt/examples/graphics/PathTab.java
+SHA1-Digest: fIH1LCV+vX63kJhrLFmDZ9vM/N8=
+
+Name: org/eclipse/swt/examples/controlexample/DialogTab.java
+SHA1-Digest: lJ/67SitepbMNFf2utWAKv5Un4k=
+
+Name: org/eclipse/swt/examples/texteditor/textForeground.ico
+SHA1-Digest: JnIMPRhygAczY0GRfOjvazDWnyM=
+
+Name: org/eclipse/swt/examples/graphics/next.gif
+SHA1-Digest: lmLlDPE2WjVohevt+GNU13MFL5w=
+
+Name: org/eclipse/swt/examples/paint/linestyle_solid.gif
+SHA1-Digest: BHI9I/rY0YbKpQZHKcJYsYh1kAE=
+
+Name: org/eclipse/swt/examples/controlexample/CLabelTab.java
+SHA1-Digest: 4YnbgXvadl2L2zaREjs9nifJizM=
+
+Name: org/eclipse/swt/examples/graphics/alpha_img2.png
+SHA1-Digest: L4ad25im2xJHm77i+9v5sE9u4CU=
+
+Name: org/eclipse/swt/examples/graphics/GradientTab.java
+SHA1-Digest: sF5BJUNJUqJ8UxF8+qzw4/uTIUs=
+
+Name: org/eclipse/swt/examples/fileviewer/icon_ClosedDrive.gif
+SHA1-Digest: gIj6llA81WK+gz5wHG0gwKr3Jmw=
+
+Name: org/eclipse/swt/examples/graphics/CountDownTab.java
+SHA1-Digest: JuIJZLJO+1HnVYekXbVzekZHzOw=
+
+Name: org/eclipse/swt/examples/controlexample/LabelTab.java
+SHA1-Digest: vC/h3/uG80kKDkXhRF6bIaUNNWE=
+
+Name: org/eclipse/swt/examples/controlexample/CanvasTab.java
+SHA1-Digest: Xg24OIvc/MLv8/M2RAEdvUcVrQ8=
+
+Name: org/eclipse/swt/examples/controlexample/CustomControlExample.jav
+ a
+SHA1-Digest: FYFepgkk5kuuXxvqx65xzOvktb8=
+
+Name: org/eclipse/swt/examples/graphics/db.gif
+SHA1-Digest: SC2Zkt3cludibZdGdxU9hMWeC3s=
+
+Name: org/eclipse/swt/examples/paint/tool_text.gif
+SHA1-Digest: GuqgQB/CYoQCRGkoy7kUb5rwPOo=
+
+Name: org/eclipse/swt/examples/graphics/AlphaTab.java
+SHA1-Digest: m2OfWIanJr2OHzA7zqd6z1sABbs=
+
+Name: org/eclipse/swt/examples/graphics/LineJoinTab.java
+SHA1-Digest: YZLJNSoYQSk6jVPRb6FzjwBg+P4=
+
+Name: org/eclipse/swt/examples/graphics/StarPolyTab.java
+SHA1-Digest: AtmVhj1Bo751KQ7/uq5TwZQkgB8=
+
+Name: org/eclipse/swt/examples/paint/options_font.gif
+SHA1-Digest: tkm9UwGJ4CB1ypt5b3BhwE99Od4=
+
+Name: org/eclipse/swt/examples/imageanalyzer/ImageAnalyzer.java
+SHA1-Digest: MX1nxfjQksoPItdDbsy5Mrog+ys=
+
+Name: org/eclipse/swt/examples/paint/PaintSession.java
+SHA1-Digest: XNTrdkzkr59UDe/9HIukAuwIFGU=
+
+Name: org/eclipse/swt/examples/paint/SolidEllipseFigure.java
+SHA1-Digest: yAbO5hDG0Kogd1Iwv4/1QTDH9qc=
+
+Name: org/eclipse/swt/examples/fileviewer/FileViewer.java
+SHA1-Digest: fuXvXZPqY1eoAR/3vi+dLwmpEeo=
+
+Name: org/eclipse/swt/examples/helloworld/HelloWorld5.java
+SHA1-Digest: 7+CgrBjzLrkkqHtsu2iGKOAIbJI=
+
+Name: org/eclipse/swt/examples/dnd/openFolder.gif
+SHA1-Digest: CYNkXwXEdIYiGvOHWz6FFSrnxLM=
+
+Name: org/eclipse/swt/examples/paint/tool_polyline.gif
+SHA1-Digest: IDIyY9PwPpw5cHgk5vVzqcua9Io=
+
+Name: org/eclipse/swt/examples/graphics/CustomAlphaTab.java
+SHA1-Digest: Q/xaDoyEusmXqPkDdhHnwmc3uVA=
+
+Name: org/eclipse/swt/examples/hoverhelp/HoverHelp.java
+SHA1-Digest: QhFI1jNtqNCA+SF/BAn9/AbgtV8=
+
+Name: org/eclipse/swt/examples/graphics/AnimatedGraphicsTab.java
+SHA1-Digest: +n4Tv718D8OQsV1RF3l6pspcZmo=
+
+Name: org/eclipse/swt/examples/addressbook/SearchDialog.java
+SHA1-Digest: 8mexKqCefcEhkJB4n9WCw5ex40o=
+
+Name: org/eclipse/swt/examples/graphics/ImageTransformTab.java
+SHA1-Digest: 7R6FTiiTKrAHfruxpejKAANyO3g=
+
+Name: org/eclipse/swt/examples/graphics/GraphicsExample.java
+SHA1-Digest: IhWmbgSmomVCBrNxTw5X71XP18s=
+
+Name: org/eclipse/swt/examples/texteditor/right.ico
+SHA1-Digest: xpV5tdX6SV0FIfU/TDhzx2twLlM=
+
+Name: org/eclipse/swt/examples/accessibility/AccessibleShapesExample.j
+ ava
+SHA1-Digest: cMFjkSpplwKAbn0xgjbje/HTMqw=
+
+Name: org/eclipse/swt/examples/controlexample/LinkTab.java
+SHA1-Digest: U2HpfauKIjJCxHgo39heBi0KSkw=
+
+Name: org/eclipse/swt/examples/controlexample/underline_mask.bmp
+SHA1-Digest: tm+8xbsshoqaj2Sf6Z0jHacZtmA=
+
+Name: org/eclipse/swt/examples/controlexample/ExpandBarTab.java
+SHA1-Digest: PicAQ64BUNupvfgsUjoxQb2pjkc=
+
+Name: org/eclipse/swt/examples/fileviewer/icon_OpenFolder.gif
+SHA1-Digest: vWsn29PEvRsCfzdv84nl1KueK+4=
+
+Name: org/eclipse/swt/examples/graphics/CustomFontTab.java
+SHA1-Digest: +goUldP7cd71ZENBBBzs4/8Kop0=
+
+Name: examples_helloworld.properties
+SHA1-Digest: VZh2eqA+M3MWpc8C5rBxqKmZ+tY=
+
+Name: org/eclipse/swt/examples/fileviewer/generic_example.gif
+SHA1-Digest: 8TMBcWuR+pVOQszJjUezjebV+e0=
+
+Name: org/eclipse/swt/examples/controlexample/bold_mask.bmp
+SHA1-Digest: dLdI2hJS/yVTuwfB571qAp1SYW8=
+
+Name: org/eclipse/swt/examples/graphics/CurvesTab.java
+SHA1-Digest: j/HcRbSA1UFJmKY7ERefKnne3Ro=
+
+Name: org/eclipse/swt/examples/controlexample/ProgressBarTab.java
+SHA1-Digest: Ov5kTbiUH4SWM/rHoFO1LWN/+EY=
+
+Name: org/eclipse/swt/examples/helloworld/HelloWorld2.java
+SHA1-Digest: vHwnfl0IhsnOkwji67qk2O9TB0c=
+
+Name: org/eclipse/swt/examples/controlexample/backgroundImage.png
+SHA1-Digest: Zbn9eY+ZpNn38qj1Gc0P1vD9tfc=
+
+Name: org/eclipse/swt/examples/graphics/pattern2.jpg
+SHA1-Digest: 5AVZs/2hX/mxmd+Pgb6RYfzs1Q0=
+
+Name: doc-html/swt_addressbook_ex.html
+SHA1-Digest: xgjfcf2LF/vQS/UaKQL+7/gKKrQ=
+
+Name: org/eclipse/swt/examples/fileviewer/cmd_Cut.gif
+SHA1-Digest: 3VggUNlnqhigPZufyKviEbgLrcg=
+
+Name: doc-html/swt_paint_ex.html
+SHA1-Digest: XerOqqBha4uTHkxjuephaAxAhtM=
+
+Name: org/eclipse/swt/examples/controlexample/StyledTextTab.java
+SHA1-Digest: IEdcgUdxDzZkj8/ftiH1Fx4hPNI=
+
+Name: org/eclipse/swt/examples/graphics/ColorListener.java
+SHA1-Digest: DfMn2/QZ8kecB6l7DqcIdhYtIhg=
+
+Name: org/eclipse/swt/examples/controlexample/SashTab.java
+SHA1-Digest: ZFVa/r1pHMc9yG1lOZ+ZWecKgdE=
+
+Name: org/eclipse/swt/examples/graphics/ace_hearts.jpg
+SHA1-Digest: slAPzARvLLySk5oEziYFa30qsko=
+
+Name: org/eclipse/swt/examples/graphics/InterpolationTab.java
+SHA1-Digest: XAoFlAz5G+XX/ikqCa0pmKLw2XY=
+
+Name: org/eclipse/swt/examples/accessibility/CTable.java
+SHA1-Digest: nZLBqcgbYvx0zZf7cT2q4x2zotA=
+
+Name: org/eclipse/swt/examples/controlexample/ScrollableTab.java
+SHA1-Digest: NSGxfu6q3J35TrUWSyeVPjSWE5I=
+
+Name: org/eclipse/swt/examples/javaviewer/JavaLineStyler.java
+SHA1-Digest: aRGfM5XFlcU1RlkanmiRCIs/dac=
+
+Name: org/eclipse/swt/examples/graphics/AdvancedGraphics.java
+SHA1-Digest: y67zQMgsvV25PRU0fG2o7DCoj/M=
+
+Name: org/eclipse/swt/examples/controlexample/TextTab.java
+SHA1-Digest: rR/bFNLZzAZV5BVhTRcueflv3fg=
+
+Name: org/eclipse/swt/examples/graphics/GraphicsTab.java
+SHA1-Digest: KVfD2/8+ARc1HxmoqNRlJ/O0wK4=
+
+Name: org/eclipse/swt/examples/controlexample/ScaleTab.java
+SHA1-Digest: Hh8+I51EDMxhSQjb5AHfbp5sRxY=
+
+Name: org/eclipse/swt/examples/paint/TextFigure.java
+SHA1-Digest: QoCY9Z337VSooSWjKX+kEyI+SuE=
+
+Name: org/eclipse/swt/examples/controlexample/red.bmp
+SHA1-Digest: 3f37CfFdeyrwjhsQt1uVqWSXa20=
+
+Name: org/eclipse/swt/examples/graphics/ace_diamond.jpg
+SHA1-Digest: sjUTSTFK1gb1B7NKPvqXByoWScU=
+
+Name: org/eclipse/swt/examples/paint/PaintSurface.java
+SHA1-Digest: 90V0L0zPPdR7ATFxc6eSbt43w1w=
+
+Name: org/eclipse/swt/examples/paint/SolidRectangleFigure.java
+SHA1-Digest: wYzHhAp5k+loULRiiDzUA2Awq/8=
+
+Name: org/eclipse/swt/examples/texteditor/textBackground.ico
+SHA1-Digest: zxV5wivZV/cClAO2PJyvfh52gMg=
+
+Name: org/eclipse/swt/examples/controlexample/italic_mask.bmp
+SHA1-Digest: 7G+OlkS9DLU9lhrwSa86SltTUJc=
+
+Name: doc-html/swt_helloworld_ex.html
+SHA1-Digest: dWZaEg1+CsJg/CyVjBsTK96uJz4=
+
+Name: org/eclipse/swt/examples/texteditor/styles.txt
+SHA1-Digest: uh4fGwO9g8/ZQIExfQbTYXHfybk=
+
+Name: doc-html/swt_hoverhelp_ex.html
+SHA1-Digest: 8xcvcP/m26aG6NJQizxPzZxwY/w=
+
+Name: org/eclipse/swt/examples/addressbook/DataEntryDialog.java
+SHA1-Digest: EdiMILCZUFtrbXGBcTIXJwy6pSk=
+
+Name: org/eclipse/swt/examples/browserexample/eclipse01.bmp
+SHA1-Digest: GyrblaMnnFVBXZrVhj3VDRid9dg=
+
+Name: org/eclipse/swt/examples/browserexample/eclipse05.bmp
+SHA1-Digest: FM2u/UbtywNnmXDXiO7+4fRhhLw=
+
+Name: org/eclipse/swt/examples/accessibility/AccessibleValueExample.ja
+ va
+SHA1-Digest: cbSFoij8oNw4e51MWjeP2i+J3AM=
+
+Name: org/eclipse/swt/examples/browserexample/eclipse09.bmp
+SHA1-Digest: hFBgXEAYA7dpFuUm6aba+vEAvnY=
+
+Name: org/eclipse/swt/examples/paint/ToolSettings.java
+SHA1-Digest: /X3x/ilWNWnqZ7/IG2c17ws2ILk=
+
+Name: org/eclipse/swt/examples/accessibility/run_wiz.gif
+SHA1-Digest: SYy4qN/a1m+mMsovWIj5YTtfjzA=
+
+Name: org/eclipse/swt/examples/controlexample/target.gif
+SHA1-Digest: xGtsTcUnfn+UVHyqlFk3OPTMuVk=
+
+Name: org/eclipse/swt/examples/graphics/RGBTab.java
+SHA1-Digest: IlPHLqGwFzhT0Re746mTxvC73vY=
+
+Name: org/eclipse/swt/examples/graphics/ImageScaleTab.java
+SHA1-Digest: 1p83u2z3Nw7OA03Nlyi+CBW4ges=
+
+Name: org/eclipse/swt/examples/graphics/alpha_img1.png
+SHA1-Digest: iZNjUu4uhdcq8F0yYbwf+5bXz7M=
+
+Name: org/eclipse/swt/examples/accessibility/AccessibleBarChartExample
+ .java
+SHA1-Digest: RG+d1vqJzpI6vcelybBByrEtRWo=
+
+Name: org/eclipse/swt/examples/texteditor/center.ico
+SHA1-Digest: DVZlxM/hPoNxkm+fQybPr3JjOE0=
+
+Name: doc-html/swt_clipboard_ex.html
+SHA1-Digest: NW98CRqYzWoSr4mpMOp6mTrr9eU=
+
+Name: org/eclipse/swt/examples/paint/EllipseTool.java
+SHA1-Digest: mKrdu6iikapEZrW5qK3IDIZXKns=
+
+Name: org/eclipse/swt/examples/controlexample/red_mask.bmp
+SHA1-Digest: Ktyd/EfIWPSzZqfW2b3U0F4wp1M=
+
+Name: org/eclipse/swt/examples/paint/AirbrushTool.java
+SHA1-Digest: GDO6JCSeuvwB6oOdP3TMG/FUOZ8=
+
+Name: org/eclipse/swt/examples/texteditor/fullscrn.ico
+SHA1-Digest: +hux3GTsiKvnl6v4FFyXjlfp61Y=
+
+Name: org/eclipse/swt/examples/browserexample/eclipse12.bmp
+SHA1-Digest: U3pqPTwM8NHrFCtfwvLCRZqmVLg=
+
+Name: org/eclipse/swt/examples/graphics/maze.bmp
+SHA1-Digest: bDlMS7svhBG07LDyvYcYlRGyQCU=
+
+Name: org/eclipse/swt/examples/graphics/GraphicsBackground.java
+SHA1-Digest: kimZLuyHTp++3kTWTt3UzFkjOqE=
+
+Name: org/eclipse/swt/examples/paint/tool_airbrush.gif
+SHA1-Digest: RpqD7FV3wJtSyQZ9xxvChJWsTms=
+
+Name: org/eclipse/swt/examples/controlexample/MenuTab.java
+SHA1-Digest: h7oQFPeUFIja0LBVfLLOizYNjQY=
+
+Name: org/eclipse/swt/examples/fileviewer/icon_ClosedFolder.gif
+SHA1-Digest: qPXEOt7QeufR5PxSeaNT6BIDmKQ=
+
+Name: org/eclipse/swt/examples/controlexample/SliderTab.java
+SHA1-Digest: J/H3k8/QJ2uJfO/HjruAoQM0S6o=
+
+Name: org/eclipse/swt/examples/controlexample/GroupTab.java
+SHA1-Digest: MyxDP9BNs3IgPS9s5zxq6D8QL8w=
+
+Name: org/eclipse/swt/examples/hoverhelp/warning.gif
+SHA1-Digest: l+p5JhG3Qzkr07OwYwoWtu2uRz0=
+
+Name: doc-html/swt_layout_ex.html
+SHA1-Digest: 2n1Bsdgg1kvUadHHjjBLJnpES74=
+
+Name: doc-html/swt_browser_ex.html
+SHA1-Digest: sA4XiRp1gC5b2AxZfxpEEuAItHg=
+
+Name: org/eclipse/swt/examples/controlexample/CComboTab.java
+SHA1-Digest: toSu1VICx+r1yfc9OLu7BHYNEvQ=
+
+Name: org/eclipse/swt/examples/controlexample/strikeout_mask.bmp
+SHA1-Digest: 3Wh0vcIwiRDEuaWsvvrWMN/S3zQ=
+
+Name: org/eclipse/swt/examples/graphics/ace_club.jpg
+SHA1-Digest: QPxzOYgjj40vE3R4jbTizXajq54=
+
+Name: org/eclipse/swt/examples/controlexample/CoolBarTab.java
+SHA1-Digest: hgiCaERLDcDuH3Ti1P0b1PwTyX0=
+
+Name: org/eclipse/swt/examples/fileviewer/cmd_Paste.gif
+SHA1-Digest: i68QpCtKDxRwJaGK6eCWRTmFZz8=
+
+Name: org/eclipse/swt/examples/graphics/swap.gif
+SHA1-Digest: Ghj9SQaJ6vJj8hRCpmwiAfHF1uI=
+
+Name: org/eclipse/swt/examples/accessibility/CTableColumn.java
+SHA1-Digest: aU38HEP0MuBoXwCU3EY6FWrTLkU=
+
+Name: doc-html/swt_controls_ex.html
+SHA1-Digest: nwp1W2vO+hW+6Ipd7fv/7DD1ZcM=
+
+Name: org/eclipse/swt/examples/controlexample/ComboTab.java
+SHA1-Digest: nGRDBEagrM+YZN2hV4Z7Rw7VRh8=
+
+Name: org/eclipse/swt/examples/fileviewer/icon_OpenDrive.gif
+SHA1-Digest: Deyavm97HeTQfZwTiqke8PQtE28=
+
+Name: org/eclipse/swt/examples/graphics/cube.png
+SHA1-Digest: 7Ty0bHMdsyj6IaNyMYgcowzjKJw=
+
+Name: org/eclipse/swt/examples/controlexample/yellow_mask.bmp
+SHA1-Digest: Ktyd/EfIWPSzZqfW2b3U0F4wp1M=
+
+Name: org/eclipse/swt/examples/graphics/RegionClippingTab.java
+SHA1-Digest: EcwoUggVLzlVhqmnLMPivLc4SVc=
+
+Name: org/eclipse/swt/examples/paint/SolidRoundedRectangleFigure.java
+SHA1-Digest: /qorFjH6c7wU8OLzrngBFs4SwV0=
+
+Name: org/eclipse/swt/examples/paint/RoundedRectangleFigure.java
+SHA1-Digest: QupqV30x+Z1d097ViCNdUVhX+Jw=
+
+Name: org/eclipse/swt/examples/controlexample/bold.bmp
+SHA1-Digest: +0G7nfSQCM67pxahFjq4VPdNYso=
+
+Name: org/eclipse/swt/examples/graphics/ace_spade.jpg
+SHA1-Digest: W1olPzxCBfvIb+JHjb8+AYC4RM0=
+
+Name: org/eclipse/swt/examples/clipboard/ClipboardExample.java
+SHA1-Digest: QA76QsnM3f3LBLMP55EdpNtOJuE=
+
+Name: org/eclipse/swt/examples/controlexample/SashFormTab.java
+SHA1-Digest: xudNMxSZPeKWbPXwF4sMAWmPSnM=
+
+Name: org/eclipse/swt/examples/paint/RoundedRectangleTool.java
+SHA1-Digest: pmxZ4GFT+8O3GRew21+EJsu4mSI=
+
+Name: org/eclipse/swt/examples/controlexample/ControlExample.java
+SHA1-Digest: bW/cKqo4ys30FNxcvqXKLq+BtYs=
+
+Name: doc-html/swt_manual_setup.html
+SHA1-Digest: qj3OPoRxY9BNfocPmn46v+wtNbE=
+
+Name: org/eclipse/swt/examples/paint/tool_roundedrectangle.gif
+SHA1-Digest: oYaDlMlEnsDH7H5yLCTTA3RSy5I=
+
+Name: org/eclipse/swt/examples/graphics/SpiralTab.java
+SHA1-Digest: 0QG/jS0A+INuUu8snQkkI+WkukI=
+
+Name: org/eclipse/swt/examples/graphics/houses.png
+SHA1-Digest: Qh3PyE8RBs2IlmJ7eo6GEEBiHm4=
+
+Name: org/eclipse/swt/examples/paint/LineTool.java
+SHA1-Digest: 5LDsknNhSWKxX+cuaJjv2RTbkMA=
+
+Name: org/eclipse/swt/examples/graphics/LineTab.java
+SHA1-Digest: S6pwiQeK/zsJAsDXkvDG3x+GZPk=
+
+Name: org/eclipse/swt/examples/graphics/pattern1.jpg
+SHA1-Digest: 597WLRoetFgCiUi330L0N9wL7cA=
+
+Name: org/eclipse/swt/examples/controlexample/ListTab.java
+SHA1-Digest: jPdS9TKGy6OdAqvWCZc5WaI92Us=
+
+Name: org/eclipse/swt/examples/graphics/home_nav.gif
+SHA1-Digest: 6ZkfXx5mGrHfp+Vr+YCQGGUsRIQ=
+
+Name: examples_accessibility.properties
+SHA1-Digest: E2Kh8c7VmLPI4TzivW1ztc9qAJI=
+
+Name: org/eclipse/swt/examples/texteditor/font_sml.ico
+SHA1-Digest: brZ8CotTYZRjk/4Dx279DKnMqzc=
+
+Name: org/eclipse/swt/examples/paint/SegmentedPaintSession.java
+SHA1-Digest: Sq2oHGCK+xsNyz5fMMQOeabZt/I=
+
+Name: org/eclipse/swt/examples/accessibility/run.gif
+SHA1-Digest: eBPsAdFy7IrqpO/5H9s4poBL1Io=
+
+Name: org/eclipse/swt/examples/paint/RectangleTool.java
+SHA1-Digest: TfsgfVs1GBBwLO2gG1GoWmlcB2I=
+
+Name: org/eclipse/swt/examples/paint/PolyLineTool.java
+SHA1-Digest: 4+z4dTzgVoakf+I/+HdcBjSa4dQ=
+
+Name: org/eclipse/swt/examples/fileviewer/IconCache.java
+SHA1-Digest: RTRKRyAzHIV/6V2i32m1nNkpkCY=
+
+Name: org/eclipse/swt/examples/texteditor/justify.ico
+SHA1-Digest: 8O0WXHXllP68NhufHkVHd3z3gmo=
+
+Name: org/eclipse/swt/examples/helloworld/HelloWorld3.java
+SHA1-Digest: lBpT+gjk8JUaSDrS5uOtAZODVNw=
+
+Name: org/eclipse/swt/examples/texteditor/italic.ico
+SHA1-Digest: xpg1uxPXC92y31OdfjvOu6x7Lh8=
+
+Name: org/eclipse/swt/examples/addressbook/AddressBook.java
+SHA1-Digest: cXpzZdRxRFgvywhQluCUvhcyD7A=
+
+Name: org/eclipse/swt/examples/controlexample/TableTab.java
+SHA1-Digest: xH8GVbV9vuBUlV9kYMZqMS0J3Ps=
+
+Name: org/eclipse/swt/examples/layoutexample/RowLayoutTab.java
+SHA1-Digest: G1L8qcmaIO1NpiiI1s7eSpjiWbQ=
+
+Name: examples_fileviewer.properties
+SHA1-Digest: Qa4e8wRaSEqFCkTc91TT5ExMvHM=
+
+Name: org/eclipse/swt/examples/fileviewer/cmd_Copy.gif
+SHA1-Digest: Og0R69pwO8AJXiVU+QwIdSrB/HA=
+
+Name: org/eclipse/swt/examples/controlexample/closedFolder.gif
+SHA1-Digest: EeiU8Y3b4FfAuHHrVqKk5xExyVA=
+
+Name: org/eclipse/swt/examples/texteditor/strikeout.ico
+SHA1-Digest: Y3VjV41O1rivDA5UlglQLUqY+VE=
+
+Name: org/eclipse/swt/examples/controlexample/ToolBarTab.java
+SHA1-Digest: Briq5DCb/ZadltQLj/6qbeZSb/E=
+
+Name: org/eclipse/swt/examples/controlexample/CTabFolderTab.java
+SHA1-Digest: vZuO40jNB3o/6oxE9MLMXTjtkoU=
+
+Name: org/eclipse/swt/examples/browserexample/eclipse04.bmp
+SHA1-Digest: q/EI3dH6XTmAJAwR4rm2NiudgrE=
+
+Name: org/eclipse/swt/examples/controlexample/AlignableTab.java
+SHA1-Digest: MixNAJ164TegS4ifvz4qQ3rBnNg=
+
+Name: org/eclipse/swt/examples/layoutexample/FormLayoutTab.java
+SHA1-Digest: oI8dfL5osViSaWIf7A3q8TKeQJU=
+
+Name: org/eclipse/swt/examples/graphics/ovals.png
+SHA1-Digest: W8C8U3WsfU2+ayDjt/RQq28Gpio=
+
+Name: org/eclipse/swt/examples/texteditor/bold.ico
+SHA1-Digest: OcDNirx7/fx5zSjUM8tUn9eoebI=
+
+Name: org/eclipse/swt/examples/browserexample/eclipse08.bmp
+SHA1-Digest: R13i9OVBWv9Hjv3qKeXDUDa/Uv0=
+
+Name: org/eclipse/swt/examples/graphics/GraphicAntialiasTab.java
+SHA1-Digest: oGdt2RgDck/JH7tvBPPS2swdh3w=
+
+Name: doc-html/swt_fileviewer_ex.html
+SHA1-Digest: nzOPpTcdQ/BPXJuuVyOyYqKreJI=
+
+Name: org/eclipse/swt/examples/paint/EllipseFigure.java
+SHA1-Digest: rzPK5mUqBUFKe/nQTwRpk+ko8ZQ=
+
+Name: examples_javaviewer.properties
+SHA1-Digest: OxiP3yMgjhfDHstGj3kLq7EsOak=
+
+Name: org/eclipse/swt/examples/dnd/DNDExample.java
+SHA1-Digest: LhzTabfxM1blOsOB9QfFnG2g9ow=
+
+Name: org/eclipse/swt/examples/accessibility/AccessibleNameExample.jav
+ a
+SHA1-Digest: 9rj5wzxWok/Y5YUlNeLs2L3bsS8=
+
+Name: org/eclipse/swt/examples/accessibility/CTableItem.java
+SHA1-Digest: WJuLz8BIOkw6on77k/vMOhim4Oc=
+
+Name: org/eclipse/swt/examples/graphics/ColorMenu.java
+SHA1-Digest: cYQBbWz07AkrYPm12t1rG0Xw/+8=
+
+Name: org/eclipse/swt/examples/texteditor/para_bul.ico
+SHA1-Digest: kTI9IlVXLONMHWimYJ/Lxx3aqk0=
+
+Name: org/eclipse/swt/examples/paint/tool_rectangle.gif
+SHA1-Digest: s7c4ZOFh46mn7sZIe/HdoP2CW/U=
+
+Name: org/eclipse/swt/examples/paint/ContinuousPaintSession.java
+SHA1-Digest: TG+G8AD2mSTxi+mkHaYS4cGe7ng=
+
+Name: org/eclipse/swt/examples/paint/fill_none.gif
+SHA1-Digest: s7c4ZOFh46mn7sZIe/HdoP2CW/U=
+
+Name: org/eclipse/swt/examples/browserexample/eclipse11.bmp
+SHA1-Digest: QZ4WBwx2Bog2eBJRZjpjdu37ero=
+
+Name: org/eclipse/swt/examples/paint/PencilTool.java
+SHA1-Digest: vVIDD8ynqtw0nhVHhKglLuKTwbY=
+
+Name: org/eclipse/swt/examples/accessibility/ControlsWithAccessibleNam
+ esExample.java
+SHA1-Digest: nRG/0MXGVIw1OVJ9FJsnkzmMSXA=
+
+Name: org/eclipse/swt/examples/texteditor/cut.ico
+SHA1-Digest: bgDm2kOhv+XDBE5GJtZYZurxHj0=
+
+Name: org/eclipse/swt/examples/texteditor/text4.txt
+SHA1-Digest: +WXHIAbmZNeJbnJ3TdZ17zplwPs=
+
+Name: org/eclipse/swt/examples/controlexample/Tab.java
+SHA1-Digest: biReN6VB5ZI6n+zBl6FQm0/5eVw=
+
+Name: org/eclipse/swt/examples/graphics/BlackHoleTab.java
+SHA1-Digest: hJV/7Q21E6OqTjgDvpJKx6UfWPQ=
+
+Name: org/eclipse/swt/examples/fileviewer/icon_File.gif
+SHA1-Digest: HK0Nc7o77dkH2q0RNHOYSbmBodA=
+
+Name: org/eclipse/swt/examples/graphics/CardsTab.java
+SHA1-Digest: DQZ9UWeJK7JKrZNgWgGAAhbSzeE=
+
+Name: org/eclipse/swt/examples/fileviewer/cmd_Search.gif
+SHA1-Digest: YURSr28YpZmHUEuIuADztaFMP8k=
+
+Name: OSGI-INF/l10n/bundle-src.properties
+SHA1-Digest: pZ9LvuoHPhqbNozhoDZQ4kRkNbs=
+
+Name: examples_texteditor.properties
+SHA1-Digest: ubJANgBqzNjtM9a0gmc9ZOh1BEY=
+
+Name: org/eclipse/swt/examples/fileviewer/cmd_Parent.gif
+SHA1-Digest: Scv5KJe/5eh7aQJMPqXov/FiI/Q=
+
+Name: org/eclipse/swt/examples/graphics/ImageFlipTab.java
+SHA1-Digest: MD31VX/UK3JUzMQDqS3Pr9OX3io=
+
+Name: org/eclipse/swt/examples/graphics/IntroTab.java
+SHA1-Digest: wZn2ic4zdDt2E/rPgUhDx9I877s=
+
+Name: doc-html/swt_javaviewer_ex.html
+SHA1-Digest: EyYnh6tLuuWKrNjTT633cr6gHhg=
+
+Name: org/eclipse/swt/examples/texteditor/paste.ico
+SHA1-Digest: DpJBta3ANuZ0hmiMaZIBjF2JzdQ=
+
+Name: org/eclipse/swt/examples/hoverhelp/information.gif
+SHA1-Digest: F6IfrZ+4B0eVf13f19NST5AIpSI=
+
+Name: org/eclipse/swt/examples/accessibility/Shape.java
+SHA1-Digest: rhOvK7vC0megqSBLvycjcfg1SGY=
+
+Name: org/eclipse/swt/examples/controlexample/strikeout.bmp
+SHA1-Digest: X7DHP60eiu61RWNv1aaM37mcDhI=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/swt/examples/graphics/TextAntialiasTab.java
+SHA1-Digest: m4Jo642HgRcFp8aJCX0KMJW6EwU=
+
+Name: examples_browser.properties
+SHA1-Digest: cJ/Y86xKQBUKYWK7cQn8+ekpkjI=
+
+Name: org/eclipse/swt/examples/paint/ContainerFigure.java
+SHA1-Digest: ImvsQLZ3mBKg0vbp4zjvDs6tuhw=
+
+Name: org/eclipse/swt/examples/accessibility/BarChart.java
+SHA1-Digest: QWMRNsTL9zxdht0qoVgYdPzVl8c=
+
+Name: org/eclipse/swt/examples/paint/LineFigure.java
+SHA1-Digest: h1zGarECTcaM/vcMJQSnOgFV6sk=
+
+Name: org/eclipse/swt/examples/graphics/CurvesSWTTab.java
+SHA1-Digest: Ahk+goW+v3B0ujvzT2dt46+Efmw=
+
+Name: org/eclipse/swt/examples/paint/SolidPolygonFigure.java
+SHA1-Digest: NYoDGDJS+xT1x1+LO8IL3HVnFJY=
+
+Name: examples_hoverhelp.properties
+SHA1-Digest: tVXQDIgtIXPD8Dl4pTY4gwEv8iI=
+
+Name: org/eclipse/swt/examples/controlexample/ShellTab.java
+SHA1-Digest: bQuZYe54gmCm1fjdZtm4Y3d7xFM=
+
+Name: doc-html/swt_texteditor_ex.html
+SHA1-Digest: AOkPxKRrkFL+A4bLgLCA8UNDINw=
+
+Name: org/eclipse/swt/examples/paint/PaintTool.java
+SHA1-Digest: Km31B0KVf7g1knyVFMqevNXALYc=
+
+Name: examples_graphics.properties
+SHA1-Digest: v2Aw+dsf/4iYfEaotc7XLSrWCcc=
+
+Name: org/eclipse/swt/examples/paint/fill_outline.gif
+SHA1-Digest: DKrrgkaSVCrAITJJPzoHwGv5bkY=
+
+Name: org/eclipse/swt/examples/paint/PointFigure.java
+SHA1-Digest: R2+gbNnFyOQDOK+BY7YojfDi/q4=
+
+Name: org/eclipse/swt/examples/graphics/irmaos.jpg
+SHA1-Digest: Zmx4hNl5py97/iYykxxgwL3RadA=
+
+Name: org/eclipse/swt/examples/paint/Figure.java
+SHA1-Digest: B/+auSp2JYe5YLZq1fIGdrtASqs=
+
+Name: org/eclipse/swt/examples/graphics/help.gif
+SHA1-Digest: GDhay4oMkYB95ewy0R5RkMLttF8=
+
+Name: org/eclipse/swt/examples/accessibility/AccessibleTableExample.ja
+ va
+SHA1-Digest: ie2FddwhXsMlQlbOGu39NJDJzXw=
+
+Name: org/eclipse/swt/examples/controlexample/RangeTab.java
+SHA1-Digest: QMkR6xaS840a5zHOmpQdwFqtCJs=
+
+Name: org/eclipse/swt/examples/paint/tool_line.gif
+SHA1-Digest: D0x3SsxgN5/YkaLMBnoY7GiV4Qk=
+
+Name: org/eclipse/swt/examples/texteditor/underline.ico
+SHA1-Digest: as1IwCqV6Y01m8P3StRwN5ydY8U=
+
+Name: org/eclipse/swt/examples/layoutexample/LayoutExample.java
+SHA1-Digest: f7FltziRkQe0+NLsN/D5YdOM4Fg=
+
+Name: org/eclipse/swt/examples/controlexample/italic.bmp
+SHA1-Digest: 68HzHaN7AAol14drBGcN76GFpMs=
+
+Name: org/eclipse/swt/examples/browserexample/BrowserExample.java
+SHA1-Digest: +XI9GblqV2/7J9XozwpKPD06Mag=
+
+Name: org/eclipse/swt/examples/graphics/font.gif
+SHA1-Digest: 7ohSYuNnDBoQHEZd7t0yFuBANSs=
+
+Name: examples_addressbook.properties
+SHA1-Digest: t2fwodgTZG1Mmzf0D/cUMQU4avQ=
+
+Name: org/eclipse/swt/examples/texteditor/resize.ico
+SHA1-Digest: XSMjLbTEt8HTOFKt/SggJtkwulc=
+
+Name: org/eclipse/swt/examples/fileviewer/cmd_Refresh.gif
+SHA1-Digest: 1LnhTGAk+8k1axz/P5xAq8EwKdk=
+
+Name: org/eclipse/swt/examples/paint/tool_pencil.gif
+SHA1-Digest: jNNp7ZWpj4pxSrvZamehlyxayuE=
+
+Name: org/eclipse/swt/examples/accessibility/AccessibleActionExample.j
+ ava
+SHA1-Digest: 4SG8gBvyqQLCppirxSot+Qc9Twc=
+
+Name: org/eclipse/swt/examples/browserexample/eclipse03.bmp
+SHA1-Digest: mdVG3aVg03nVEwn0I7WC1bzCHbI=
+
+Name: org/eclipse/swt/examples/graphics/GradientDialog.java
+SHA1-Digest: p3eHf1ZcBJF/MIgRBkzXhITSYTc=
+
+Name: org/eclipse/swt/examples/paint/fill_solid.gif
+SHA1-Digest: yfxXBzjq8IUhjV7BqfP+/qsphTc=
+
+Name: org/eclipse/swt/examples/layoutexample/FillLayoutTab.java
+SHA1-Digest: Qss1zxsCpLultLhZwuLA8wAZUV0=
+
+Name: org/eclipse/swt/examples/browserexample/eclipse07.bmp
+SHA1-Digest: o1NUN79bZ0l3PCgLcTbx4ULutPM=
+
+Name: org/eclipse/swt/examples/texteditor/left.ico
+SHA1-Digest: ZcxWgRTk65vr9rRhTwAP7HRchJw=
+
+Name: org/eclipse/swt/examples/controlexample/ToolTipTab.java
+SHA1-Digest: 8IcdAty+AyQ6q7yxihlTRe8sMA4=
+
+Name: org/eclipse/swt/examples/controlexample/TabFolderTab.java
+SHA1-Digest: XtRx3rTEvUwoiP6R51gKYkZlQBw=
+
+Name: org/eclipse/swt/examples/texteditor/text.txt
+SHA1-Digest: DU2ss5TV+EWPLNHDL/kVvQPAu+s=
+
+Name: org/eclipse/swt/examples/paint/tool_ellipse.gif
+SHA1-Digest: K4ErdsOWO4TQLnvDGEK3yLWvfsM=
+
+Name: org/eclipse/swt/examples/clipboard/MyTypeTransfer.java
+SHA1-Digest: ZRuX8cdv7X7G/cyyX9ZW7wvnY9w=
+
+Name: org/eclipse/swt/examples/helloworld/HelloWorld4.java
+SHA1-Digest: Fk2dL/fqkjTe3bxAdLEAtAKrSMs=
+
+Name: org/eclipse/swt/examples/texteditor/font_big.ico
+SHA1-Digest: 1YnufIXp1J2BQy7vgMrmwpp+hnI=
+
+Name: org/eclipse/swt/examples/layoutexample/Tab.java
+SHA1-Digest: sLqfDXMR/+L3Z7cAFETEDSTn2CY=
+
+Name: org/eclipse/swt/examples/paint/RectangleFigure.java
+SHA1-Digest: xXnuL1n1vjPAGfwBDoSsM4J5gxk=
+
+Name: org/eclipse/swt/examples/graphics/FontBounceTab.java
+SHA1-Digest: saOdC++RfpnpGyeH0LH7lAMi40I=
+
+Name: doc-html/swt_dnd_ex.html
+SHA1-Digest: 3bN0N7hyCk0nItUM2j02WSTrbiM=
+
+Name: org/eclipse/swt/examples/graphics/PathClippingAnimTab.java
+SHA1-Digest: IoJp5wwfELuOjpQRTMNxwKjm3xw=
+
+Name: org/eclipse/swt/examples/browserexample/eclipse10.bmp
+SHA1-Digest: VQRg5oKG+oFhezv23TyioFDZJi8=
+
+Name: doc-html/swt_launcher_ex.html
+SHA1-Digest: WFbfzlh8fbNIq6ViKesVe/yja6Q=
+
+Name: org/eclipse/swt/examples/paint/linestyle_dashdot.gif
+SHA1-Digest: WTTNFvj6aiNMxj7lRIgwjfmFOZI=
+
+Name: org/eclipse/swt/examples/graphics/MazeTab.java
+SHA1-Digest: 080XdpWpi7Sek+b/HTzpu53D0Q0=
+
+Name: org/eclipse/swt/examples/graphics/task.gif
+SHA1-Digest: 5DGz5MEmepN9AuT77mGfU4A9yRk=
+
+Name: doc-html/swt_customcontrols_ex.html
+SHA1-Digest: lO2HZLpNryyYshcHSMww2XMZI2s=
+
+Name: org/eclipse/swt/examples/texteditor/para_num.ico
+SHA1-Digest: Owwsp5qX8wPGIOUlETTpxBqaJaM=
+
+Name: org/eclipse/swt/examples/controlexample/browser-content.html
+SHA1-Digest: tni7l9UZz4nNaaVdq0KLLpIOalY=
+
+Name: org/eclipse/swt/examples/fileviewer/cmd_Delete.gif
+SHA1-Digest: f59j4+D0jTMUjq9VWaxoevxbMEU=
+
+Name: org/eclipse/swt/examples/texteditor/TextEditor.java
+SHA1-Digest: FTFimtu0cdnpmNqrvRiLlLnwyw0=
+
+Name: org/eclipse/swt/examples/controlexample/underline.bmp
+SHA1-Digest: sjAIrci5pFoVWLT3EBpkGKs3pJ0=
+
+Name: org/eclipse/swt/examples/controlexample/yellow.bmp
+SHA1-Digest: J2Y0DwGbQQARlZ+GPene1GqAoYM=
+
+Name: org/eclipse/swt/examples/helloworld/HelloWorld1.java
+SHA1-Digest: InJrVgxlC5aFC97OSo8ridNFt0Y=
+
+Name: org/eclipse/swt/examples/graphics/swt.png
+SHA1-Digest: fcuidnOvxt4O/oh4jdd1OOkZDqc=
+
+Name: org/eclipse/swt/examples/graphics/pause.gif
+SHA1-Digest: yM50mlbVGQLacDNklQol2+C/3t0=
+
+Name: org/eclipse/swt/examples/clipboard/MyType.java
+SHA1-Digest: XdhPWcRcWrG0EGtKtEmWJVCKE8Y=
+
+Name: org/eclipse/swt/examples/paint/TextTool.java
+SHA1-Digest: RfqNKVhb76oXx46e2y//hA27QAc=
+
+Name: org/eclipse/swt/examples/controlexample/SpinnerTab.java
+SHA1-Digest: /pXynJArqSbdx9HlfEJi4EbjRc4=
+
+Name: org/eclipse/swt/examples/fileviewer/cmd_Rename.gif
+SHA1-Digest: lTas/VXohfAcSVzpJiI5WNa3Ekw=
+
+Name: org/eclipse/swt/examples/paint/FigureDrawContext.java
+SHA1-Digest: IN7lqib/mMo0xnloDNvDzUyzpc4=
+
+Name: org/eclipse/swt/examples/paint/BasicPaintSession.java
+SHA1-Digest: foHPzpCdAwlJYB8dURIoJxuqTMo=
+
+Name: org/eclipse/swt/examples/controlexample/parentBackgroundImage.pn
+ g
+SHA1-Digest: tm6X1MNGxrbDaMNU4jw73043I50=
+
+Name: org/eclipse/swt/examples/fileviewer/cmd_Print.gif
+SHA1-Digest: o+gasiL+m6zp2wvRrz9uv0KlIMM=
+
+Name: examples_images.properties
+SHA1-Digest: ED5Fm/xUBTcJL8eISmQF2LN22BQ=
+
+Name: org/eclipse/swt/examples/controlexample/BrowserTab.java
+SHA1-Digest: E1W+W/mdZQmPwDwS+Uhd95pkiFc=
+
+Name: examples_paint.properties
+SHA1-Digest: V9LAdKUmGyOtThF3hRooPo3bvyc=
+
+Name: org/eclipse/swt/examples/graphics/play.gif
+SHA1-Digest: URVvg7nbY4mOfX5YY14txMjgZbo=
+
+Name: org/eclipse/swt/examples/controlexample/openFolder.gif
+SHA1-Digest: CYNkXwXEdIYiGvOHWz6FFSrnxLM=
+
+Name: org/eclipse/swt/examples/addressbook/FindListener.java
+SHA1-Digest: r/ZE91QjLtzYSFyoOMfy0uu9I98=
+
+Name: org/eclipse/swt/examples/graphics/ShapesTab.java
+SHA1-Digest: QojlN4mPWmAog+mq8rvOLqIDQoc=
+
+Name: org/eclipse/swt/examples/paint/DragPaintSession.java
+SHA1-Digest: izJsfhlNPBD9Ozn07xNdp7KVTjg=
+
+Name: org/eclipse/swt/examples/paint/PaintExample.java
+SHA1-Digest: XfKQKF8Rwo7yv+1jNaI0Tk4MNtk=
+
